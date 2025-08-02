@@ -5,6 +5,11 @@ A modern React application with dynamic theme switching capabilities, built with
 🌐 **Live Demo**: [multi-theme-hipster-inc.netlify.app](https://multi-theme-hipster-inc.netlify.app)
 📄 Additional Documentation: [View PDF](./docs/Avik_Panda_React_Assessment_Documentation.pdf)
 
+## 📄 Additional Documentation
+
+You can view the full code documentation and design rationale here:  
+🔗 [Avik_Panda_React_Assessment_Documentation.pdf](https://drive.google.com/file/d/18BAa15jQo4LNuv5AYUlao2RlWGefCL0i/view?usp=sharing)
+
 ## ✨ Features
 
 - 🎨 Dynamic theme switching

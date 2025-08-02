@@ -3,7 +3,7 @@
 A modern React application with dynamic theme switching capabilities, built with cutting-edge web technologies.
 
 🌐 **Live Demo**: [multi-theme-hipster-inc.netlify.app](https://multi-theme-hipster-inc.netlify.app)
-📄 Additional Documentation: [View PDF](./docs/Avik_Panda_React_Assessment_Documentation.pdf)
+
 
 ## 📄 Additional Documentation
 
